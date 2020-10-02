@@ -4,7 +4,7 @@ Project Validator
 Project Validator is a news aggregator that empowers modern readers to stay credibly informed in an age rife with disinformation. By tracking publisher credibility and article contents through machine learning, Validator is the single solution for agenda free, ad-free, honest information.
 
 
-Features
+Features 
 --------
 
 - Removes clickbait 
@@ -52,7 +52,7 @@ Merge Process is as follows.
 3. Pushes changes and makes a pull request with detailed changes+updates
 4. After 2+ people in charge of that feature verify the functionality it will be merged with master
 
-Support
+Support - Help For us
 -------
 
 If you are struggling, please reach out.
